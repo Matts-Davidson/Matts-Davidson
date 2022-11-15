@@ -1,3 +1,1 @@
 - Hi, I’m Matt Davidson
-- I am currently a structural engineer looking to expand my skillset and potentially open doors to new opportunities
-- With a strong belief in the learn by doing mantra, I am focusing my efforts on becoming profficient in Python, Java, and C
